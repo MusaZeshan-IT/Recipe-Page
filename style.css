@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(243, 229, 216);
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.headings {
+    font-family: 'Young Serif', sans-serif;
+}
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: rgb(78, 76, 73);
+}
+
+.recipe-card {
+    border: none;
+    width: 45rem;
+    border-radius: 20px;
+    margin: 110px 0px;
+}
+
+.card-content {
+    padding: 0 2.3rem 0 2.3rem;
+}
+
+.recipe-img {
+    padding: 2.3rem 2.3rem 2.3rem 2.3rem;
+    border-radius: 50px;
+}
+
+.recipe-preparation-card {
+    background-color: rgb(255, 247, 252);
+    border: none;
+}
+
+.card-preparation-title {
+    color: rgb(118, 43, 73);
+}
+
+.card-preparation-sub-titles {
+    color: rgb(118, 43, 73);
+}
+
+h2 {
+    color: rgb(133, 72, 51);
+    font-weight: 400;
+}
+
+.sub-headings {
+    font-family: 'Outfit', sans-serif;
+    color: rgb(133, 72, 51);
+}
+
+.table-head {
+    color: rgb(78, 76, 73) !important;
+}
+
+.table-data {
+    color: rgb(133, 72, 51) !important;
+}
+
+.table tbody tr:last-child {
+    border-color: transparent;
+}
+
+@media screen and (max-width: 575px) {
+    .recipe-img {
+        border-radius: 0px;
+        padding: 0 0 2.3rem 0;
+        width: 100%;
+    }
+
+    .recipe-card {
+        border-radius: 0px;
+        margin: 0px 0px;
+    }
+}
+
+@media screen and (max-width: 475px) {
+
+    .card-container {
+        padding: 0;
+    }
+}
