@@ -39,5 +39,5 @@ Well what I want to focus on the future is making websites quickly, writing bett
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MusaZeshan-IT)
-- Instagram - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@MusaZeshan-IT](https://www.frontendmentor.io/profile/MusaZeshan-IT)
+- Instagram - [@musazeshan.it](https://www.instagram.com/musazeshan.it/)
